@@ -44,16 +44,11 @@ Electronic components are available in different packages, such as through-hole 
 
 
 # EXPECTED OUTPUT:
-<img width="1612" height="737" alt="image" src="https://github.com/user-attachments/assets/88c262bb-f074-4d9c-b86b-c2cddf55633f" />
-<img width="1608" height="672" alt="image" src="https://github.com/user-attachments/assets/9ae1f48c-5bc7-45d1-af22-21c9a8e918dc" />
-<img width="1607" height="732" alt="image" src="https://github.com/user-attachments/assets/c5c680a7-76fd-45c9-8f23-5ef4e3dbc0fa" />
-<img width="1566" height="707" alt="image" src="https://github.com/user-attachments/assets/f95d28c2-bca3-41f0-92ec-5b0f5ae85e9f" />
-<img width="1513" height="682" alt="image" src="https://github.com/user-attachments/assets/b177c6a3-4a74-4458-8a49-9e074110be57" />
-<img width="1542" height="803" alt="image" src="https://github.com/user-attachments/assets/61f9cb4c-0e76-4015-a4b5-9cff38ce1dbd" />
-<img width="1546" height="801" alt="image" src="https://github.com/user-attachments/assets/e58bc28d-c1ee-4d04-a406-099edf03f45c" />
-<img width="1617" height="777" alt="image" src="https://github.com/user-attachments/assets/b1990cf1-5f67-4038-a34c-5a3672fe83f9" />
-<img width="1608" height="662" alt="image" src="https://github.com/user-attachments/assets/d51e9dbf-5dfa-4047-a8c2-7055008e9c83" />
-<img width="1607" height="805" alt="image" src="https://github.com/user-attachments/assets/eee972b7-695f-4f76-a6b5-ad206f4c6250" />
+<img width="1212" height="743" alt="image" src="https://github.com/user-attachments/assets/265f778b-e222-4e2f-8317-e0257eb04802" />
+<img width="964" height="743" alt="image" src="https://github.com/user-attachments/assets/c6cba8eb-c903-4bb3-9dc7-3fdaa64bfdf0" />
+<img width="860" height="748" alt="image" src="https://github.com/user-attachments/assets/cf95fff3-e9a7-4562-9a19-2cad173d5baa" />
+<img width="829" height="750" alt="image" src="https://github.com/user-attachments/assets/3ce2c8a7-35b5-45cf-b549-bd1848fea26d" />
+<img width="980" height="757" alt="image" src="https://github.com/user-attachments/assets/29919850-47b6-40f5-8b81-b12f5f819730" />
  
 # RESULT:
 Thus, the basic electronic components such as resistor, capacitor, diode, transistor, and inductor were studied and their functions and specifications were understood.
